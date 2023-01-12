@@ -1,5 +1,16 @@
 ## This Repo will only be used to implement drupal advance features like Drupal Behaviours, Mega Multi Level Menu, Responsive Design, Drupal Paragraphs, Theme Preprocess, Mastering Twig & other complex problems
 
+# PR #1 (Responsive Design): DRPL-001
+# PR #2 (Some Twig Mastering): DRPL-002
+# PR #3 (Theme Preprocess): DRPL-003
+# PR #4 (Drupal Paragraphs): DRPL-004
+# PR #5 (Mega Menu): DRPL-005
+# PR #6 (Drupal Behaviours): DRPL-006
+# PR #7 (Some Drupal): DRPL-007
+
+# Figma Refrence Design (HomePage) Only
+ - https://www.figma.com/file/s2nsvgGV3BtPcSygtEeGNv/Portfolio_Responsive_Template_from_Laaqiq?node-id=101%3A412&t=nTahQU4SPH8UOvIV-1
+
 # Local setup guide
 
 ## Using ddev
